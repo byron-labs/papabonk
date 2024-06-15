@@ -1,6 +1,6 @@
 
 
-@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans:ital,wght@0,100;0,300;0,400;0,500;0,700;0,800;0,900;1,100;1,300;1,400;1,500;1,700;1,800;1,900&family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans:ital,wght@0,100;0,300;0,400;0,500;0,700;0,800;0,900;1,100;1,300;1,400;1,500;1,700;1,800;1,900&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
 body {
     font-family: 'Alegreya Sans', sans-serif;
     font-size: 18px;
@@ -26,7 +26,7 @@ ul {
     list-style-type: none;
     padding: 0;
     margin: 0;
-    font-family: 'Permanent Marker', sans-serif;
+    font-family: 'Nunito', sans-serif;
     font-size: 18px;
     font-weight: 400;
     text-align: center;
@@ -419,7 +419,7 @@ nav {
     color: #FFF;
     text-align: center;
     text-shadow: 3px 3px 0px #291900;
-    font-family: 'Permanent Marker';
+    font-family: 'Nunito';
     font-size: 150px;
     font-style: normal;
     font-weight: 900;
@@ -446,7 +446,7 @@ nav {
 
 .hero-title ul {
     
-    font-family: 'Permanent Marker', sans-serif;
+    font-family: 'Nunito', sans-serif;
     font-size: 18px;
     font-weight: 400;
     text-align: center;
@@ -465,7 +465,7 @@ nav {
 
 .hero-title ul li a {
     color: #FF8102;
-    font-family: 'Permanent Marker', sans-serif;
+    font-family: 'Nunito', sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 700;
@@ -515,7 +515,7 @@ nav {
 .about-right h2 {
     color: #FFF;
     text-shadow: 3px 3px 0px #291900;
-    font-family: 'Permanent Marker';
+    font-family: 'Nunito';
     font-size: 65px;
     font-style: normal;
     font-weight: 900;
@@ -545,7 +545,7 @@ nav {
     color: #FFF;
     text-align: center;
     text-shadow: 3px 3px 0px #291900;
-    font-family: 'Permanent Marker';
+    font-family: 'Nunito';
     font-size: 45px;
     font-style: normal;
     font-weight: 900;
@@ -606,7 +606,7 @@ nav {
     color: #FFF;
     text-align: center;
     text-shadow: 3px 3px 0px #291900;
-    font-family: 'Permanent Marker';
+    font-family: 'Nunito';
     font-size: 45px;
     font-style: normal;
     font-weight: 900;
@@ -624,7 +624,7 @@ nav {
 }
 .token-left-item h2{
     color: #FFF;
-    font-family: 'Permanent Marker';
+    font-family: 'Nunito';
     font-size: 20px;
     font-style: normal;
     font-weight: 900;
@@ -680,7 +680,7 @@ nav {
 
 .token-right h2{
     color: #FFF;
-    font-family: 'Permanent Marker';
+    font-family: 'Nunito';
     font-size: 20px;
     font-style: normal;
     font-weight: 900;
@@ -738,7 +738,7 @@ nav {
     color: #FFF;
     text-align: center;
     text-shadow: 3px 3px 0px #291900;
-    font-family: 'Permanent Marker';
+    font-family: 'Nunito';
     font-size: 65px;
     font-style: normal;
     font-weight: 900;
@@ -768,7 +768,7 @@ nav {
 
 .roadmap-item h3 {
     color: #FFF;
-    font-family: 'Permanent Marker';
+    font-family: 'Nunito';
     font-size: 38px;
     font-style: normal;
     font-weight: 900;
@@ -779,7 +779,7 @@ nav {
 
 .roadmap-item ul li {
     color: #fff;
-    font-family: Alegreya Sans;
+    font-family: 'Alegreya Sans';
     font-size: 18px;
     font-style: normal;
     font-weight: 400;
@@ -826,7 +826,7 @@ nav {
 }
 .disclaimer-wrapper h2{
     color: #FFF;
-    font-family: 'Permanent Marker';
+    font-family: 'Nunito';
     font-size: 38px;
     font-style: normal;
     font-weight: 900;
